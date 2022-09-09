@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ODSTest12</string>
+    <string name="default_notification_channel_id">fcm_deafult_channelID</string>
+    <string name="msg_token_fmt">My Firebase Token %s</string>
+</resources>
